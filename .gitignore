@@ -34,3 +34,6 @@ nohup.out
 
 # Ignore it while not disable for some reason.
 dependency-reduced-pom.xml
+
+docker/logs/*
+docker/store/*
